@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #F4F4F4;
+   
+}
+.container{
+    max-width: 1000px;
+   height: 140px;
+    background-color: #548CA8;
+    margin:0 auto;
+    margin-bottom: 10px;
+    
+    
+    
+}
+
+
+header{
+    
+}
+.image{
+    width: 100px;
+    height: 115px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+   
+}
+.name{
+    float: left;
+    padding-top: 30px;
+    padding-left: 15px;
+    
+}
+.name h1{
+    font-size: 25px;
+   
+}
+.name h3{
+    font-size: 15px;
+    font-weight: normal;
+    color: black;
+}
+h1,h2,h3,h4,h5,h6{
+    color: white;
+}
+.contact{
+    float: right;
+    padding: 30px;
+}
+.contact a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+.contact a:hover{
+    color: tomato;
+    text-decoration: underline;
+
+}
+.clear{
+    clear: both;
+}
+hr{
+    border: 3px black solid;
+    border-bottom: none;
+    
+}
+.personalInfo{
+    background-color: aqua;
+    margin: 0;
+   
+   
+
+
+}
+#leftdiv{
+    width: 26%;
+    float: left;
+   height: 100px;
+    padding: 10px;
+    margin: 0 auto;
+   background-color:#2B3743;
+
+   
+}
+#rightdiv{
+    width: 70%;
+    height: 100px;
+    float: right;
+    padding: 10px;
+    background-color:#EDEDED;
+    
+}
+.set{
+    
+}
+.space{
+    border: 3px rgb(175, 185, 183) solid;
+    border-bottom: none;
+}
+
+.left1{
+    width: 26%;
+    float: left;
+   height: 630px;
+    padding: 10px;
+    margin: 0 auto;
+   background-color:#2B3743;
+
+   
+}
+.right1{
+    width: 70%;
+    float: right;
+    padding: 10px;
+    background-color:#EDEDED;
+    
+}
+.right1 ul{
+    margin: 0 auto;
+    color: black;
+    padding: 10px;
+}
+.right1 h3{
+    color: black
+}
+.jobskill h3{
+    text-align: center;
+    text-decoration: underline;
+}
+.nondevskill{
+    color: aqua;
+    width: 50%;
+    float: left;
+    text-align: center;
+
+}
+.nondevskill h4{
+    color: black;
+    text-decoration: underline;
+}
+.devskill{
+    color: #548CA8;
+    width: 50%;
+    float: right;
+    text-align: center;
+}
+.devskill h4{
+    color: black;
+    text-decoration: underline;
+}
+.nondevskill ul progress{
+    height: 30px;
+}
+.left2{
+    width: 26%;
+    float: left;
+   height: 120px;
+    padding: 10px;
+    margin: 0 auto;
+   background-color:#2B3743;
+
+   
+}
+.right2{
+    width: 70%;
+    height: 120px;
+    float: right;
+    padding: 10px;
+    background-color:#EDEDED;
+    
+}
+.bsc{
+    width: 50%;
+    float: left;
+}
+.bsc h3{
+    color: black;
+}
+.hsc{
+    width: 50%;
+    float: right;
+}
+.hsc h3{
+    color: black;
+}
+.left3{
+    width: 26%;
+    float: left;
+   height: 60px;
+    padding: 10px;
+    margin: 0 auto;
+   background-color:#2B3743;
+
+}
+.right3{
+    width: 70%;
+    height: 60px;
+    float: right;
+    padding: 10px;
+    background-color:#EDEDED;
+    margin: 0 auto;
+}
+
+footer{
+    background-color: black;
+   margin: 5px;
+    padding: 20px;
+    text-align: center;
+
+}
+.end {
+    color: white;
+    margin: 5px;
+
+}
+.end a{
+    color: white;
+    text-decoration: none;
+   margin: 10px;
+   padding-bottom: 10px;
+    
+}
